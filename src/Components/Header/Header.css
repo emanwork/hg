@@ -1,0 +1,6 @@
+.headerCarousel {
+    height: calc(100vh - 56px);
+}
+
+.headerCarousel .carousel-inner,
+.headerCarousel .carousel-item { height: inherit; }
